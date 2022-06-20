@@ -1,11 +1,11 @@
 <?php
 
 function connect(){
-    $host="localhost";
-    $user="root";
-    $password="mariadatabase";
+    $host="utpservidor123456789.mysql.database.azure.com";
+    $user="root_admin";
+    $password="Daniel141516";
 
-    $db="student";
+    $db="students";
 
     $con = mysqli_connect($host,$user,$password);
 
