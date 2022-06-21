@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'crud-students'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61F47C968EB94C5CBA9449AE887DF13F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34A8AAB74CC24AEA8E8DBCFC6576768C }}
           package: .
